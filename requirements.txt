@@ -1,6 +1,6 @@
-pandas 
+pandas
 scikit-learn
 numpy
-
+ipykernel
 
 -e .

@@ -17,9 +17,13 @@ setup(
     ],
     python_requires='>=3.6',
     install_requires=[
-        # List your dependencies here
-        # 'numpy',
-        # 'pandas',
-        # 'scikit-learn',
+         #List your dependencies here
+        'numpy',
+        'pandas',
+         'scikit-learn',
+         'matplotlib',
+         'seaborn',
+         'tensorflow',
+         'ipykernel',
     ],
 )
